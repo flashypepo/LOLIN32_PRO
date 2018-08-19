@@ -1,0 +1,10 @@
+{
+    "STATIC_IP": "192.168.178.102",
+    "SUBNET" : "192.168.178.0",
+    "GATEWAY_IP": "192.168.178.1",
+    "MASKER": "255.255.255.0",
+    "SSID": "PePoDevNet",
+    "PASSWRD" : "5t2!V99*",
+    "DNS": "8.8.8.8",
+    "IDENTITY": "LOLIN32_PRO_V1.0_4MB_PSRAM"
+}

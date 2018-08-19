@@ -1,0 +1,6 @@
+{
+  "WIDTH"  : "128",
+  "HEIGHT"  : "32",
+  "I2C_ADDRESS" : "60",
+  "DEVICE" : "OLED 128*32"
+}
