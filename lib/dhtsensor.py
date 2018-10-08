@@ -24,16 +24,20 @@ class DHTSensor:
             return (None, None)
         else:
             return (temperature, humidity)
+
+
     @property
     def sensor(self):
         """ returns sensor object"""
         return self._dht
 
+
     @property
     def pin(self):
         """ returns Pin of sensor"""
         return self._dht_pin
 
+
     @property
     def type(self):
         """ returns type of sensor (DHT11 | DHT2X)"""
